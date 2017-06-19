@@ -11,7 +11,7 @@ deploy:
   provider: releases
   api_key:
     secure: "Fx+I2K4OfD8I91UWhY69zGn373riwZl8+tuwPYGBBdPRxVNXrMNcBybkExolakoA9fWN1Mf+N4DK3nuO+TG699UrXxII0qScSep5Ps5xhZsMK7D+/1WrZ9aQHirauLv1gUepZQWhPXrQU2RC4HRHNiNs72FaQ1vT7v+H//16YkQ2DCUQIGE2EUgy/M4ASfYjs1cnG+xp3psHqTQTptoXtQD83AbgBwvvWLA3ifi24L6nRzqVaoRORDGV1tmJl5qCSk4Zt5LpUpKKnoxpbYxwOy+np2ZUKNDV+lYpiKvw+XtB0QdOY6CNZC0bNdUuSzuPARZC3b1sRcevNdh30PyMvKofU6POLGNluVHPA78aFCnslEDxQsmjCixhEMiJLL8EiTAwV9kajYRQ5nP4jJvRb8PkMAHgNM2JVQp8ZM/dif+GFosbj+LVzUvYU7FowupnZCVyiK/AwghjFZTE5w2njESBsyvEodzyREMMT5O/hPumPyiXdkRDdt1vJCL1VuqV+q7xqva0VQNh/c8a5oyuhDvcD67zMvZVn9JA7CnopizPx8+dpUA/x6tNpCttz1urKZK0B1TIbyxX2vd2EVrbqqiupJ2NaRq4jXRCz0pFmb9mSR9rE5Sgup2PVDfDbLCMkZ9NinoF1n4PI7MfJxmU9mIMFDyqbLW7tI2lg3oGqus="
-  file: "$TRAVIS_BUILD_DIR/cv.pdf"
+  file: "$TRAVIS_BUILD_DIR/cv.html"
   skip_cleanup: true
   on:
     tags: true
