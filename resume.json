@@ -6,7 +6,7 @@
     "email": "mkasprzyk@szy.fr",
     "phone": "+48 535 585 642",
     "website": "stressless.io",
-    "summary": "Experienced DevOps engineer focused on cloud computing, managing infrastructure as code, software development, deployment processes and configuration management (with high pressure on automation)",
+    "summary": "Experienced DevOps engineer focused on cloud computing, managing infrastructure as code, software development, deployment processes and configuration management",
     "location": {
       "address": "Buska 86/5",
       "postalCode": "53-326",
@@ -34,10 +34,10 @@
       "website": "http://stressless.io",
       "startDate": "2016-05-01",
       "endDate": "2017-12-31",
-      "summary": "Currently working for one of the top-10 worldwide banking companies",
-      "highlights": [
+      "summary": "Currently working for one of the top 10 worldwide banking companies",
+       "highlights": [
         "Delivering first-class solutions in DevOps & Software Development area",
-        "Working on few own open source projects"
+        "Working on a few own open source projects"
       ]
     },
     {
@@ -76,7 +76,7 @@
         "Developing and optimizing continuous integration/deployment tools and processes",
         "Migrating software development and testing processes to containerized environments",
         "Administration of Linux systems, including usage of configuration management tools",
-        "Software quality assurance analysis based on widely used tools",
+        "Software quality assurance analysis",
         "Managing internal cloud infrastructure"
       ]
     }
@@ -86,7 +86,7 @@
     {
       "institution": "The ICT and Electronic Schools Complex",
       "area": "ICT",
-      "studyType": "technical college ",
+      "studyType": "technical college",
       "startDate": "2007-09-01",
       "endDate": "2011-06-01",
       "gpa": "",
@@ -131,7 +131,7 @@
         "S3",
         "Beanstalk",
         "EC2",
-        "lambda",
+        "Lambda",
         "IoT",
         "CloudFormation"
       ]
