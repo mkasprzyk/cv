@@ -4,7 +4,7 @@ language: node_js
 node_js:
   - "4.2.6"
 
-install: npm install -g resume-cli
+install: npm install -g resume-cli jsonresume-theme-stackoverflow
 script:  resume export --format pdf --theme stackoverflow cv.pdf && pwd && ls -la
 
 deploy:
