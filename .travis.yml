@@ -4,8 +4,8 @@ language: node_js
 node_js:
   - "4.2.6"
 
-install: npm install -g resume-cli jsonresume-theme-short
-script:  resume export --format pdf --theme short cv.pdf && pwd && ls -la
+install: npm install -g resume-cli
+script:  resume export --format pdf cv.pdf && pwd && ls -la
 
 deploy:
   provider: releases
