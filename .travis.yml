@@ -5,7 +5,7 @@ node_js:
   - "4.2.6"
 
 install: npm install -g resume-cli
-script:  resume export --format --theme stackoverflow pdf cv.pdf
+script:  resume export --format pdf --theme stackoverflow cv.pdf
 
 deploy:
   provider: releases
