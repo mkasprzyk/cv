@@ -1,0 +1,201 @@
+{
+  "basics": {
+    "name": "Maciej Kasprzyk",
+    "label": "DevOps & Software Developer",
+    "picture": "",
+    "email": "mkasprzyk@szy.fr",
+    "phone": "+48 535 585 642",
+    "website": "stressless.io",
+    "summary": "Experienced DevOps engineer focused on cloud computing, managing infrastructure as code, software development, deployment processes and configuration management (with high pressure on automation)",
+    "location": {
+      "address": "Buska 86/5",
+      "postalCode": "53-326",
+      "city": "Wrocław",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "mkasprzyk",
+        "url": "https://github.com/mkasprzyk"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "mkasprzyk",
+        "url": "https://www.linkedin.com/in/mkasprzyk71/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Stressless Solutions",
+      "position": "Owner & DevOps",
+      "website": "http://stressless.io",
+      "startDate": "2016-05-01",
+      "endDate": "",
+      "summary": "Currently working for one of the top-10 worldwide banking companies",
+      "highlights": [
+        "Delivering first-class solutions in DevOps & Software Development area"
+      ]
+    },
+    {
+      "company": "OVH",
+      "position": "DevOps",
+      "website": "https://www.ovh.com",
+      "startDate": "2016-03-01",
+      "endDate": "2016-05-30",
+      "summary": "DevOpsing & OpenStack development in one of the biggest hosting company in Europe",
+      "highlights": [
+        "Developing OpenStack core components and extensions",
+        "Automation of systems and processes in public cloud area"
+      ]
+    },
+    {
+      "company": "Credit Agricole (via outsourcing)",
+      "position": "Software Integration Engineer (SCM)",
+      "website": "https://www.credit-agricole.pl",
+      "startDate": "2015-11-01",
+      "endDate": "2016-03-30",
+      "summary": "SCM & software development in project focused on private and corporate banking",
+      "highlights": [
+        "Developing processes and tools for software deliveries from external software development companies",
+        "Introducing cutting-edge technologies in infrastructure management area",
+        "Planning future of internal enterprise architecture based on cutting-edge technologies"
+      ]
+    },
+    {
+      "company": "Nokia Networks",
+      "position": "Software Integration Engineer (SCM)",
+      "website": "https://networks.nokia.com",
+      "startDate": "2013-02-01",
+      "endDate": "2015-10-01",
+      "summary": "Software configuration management & software development in project focused on control plane in mobile broadband ",
+      "highlights": [
+        "Developing and optimizing continuous integration/deployment tools and processes",
+        "Migrating software development and testing processes to containerized environments",
+        "Administration of Linux systems, including usage of configuration management tools",
+        "Software quality assurance analysis based on widely used tools",
+        "Managing internal cloud infrastructure"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "The ICT and Electronic Schools Complex",
+      "area": "ICT",
+      "studyType": "technical college ",
+      "startDate": "2007",
+      "endDate": "2011",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Scripting",
+      "level": "",
+      "keywords": [
+        "python",
+        "bash",
+        "groovy"
+      ]
+    },
+    {
+      "name": "VCS",
+      "level": "",
+      "keywords": [
+        "git",
+        "subversion"
+      ]
+    },
+    {
+      "name": "Containers",
+      "level": "",
+      "keywords": [
+        "Docker",
+        "Kubernetes",
+        "Rancher"
+      ]
+    },
+    {
+      "name": "AWS",
+      "level": "",
+      "keywords": [
+        "ECS",
+        "RDS",
+        "S3",
+        "Beanstalk",
+        "EC2",
+        "lambda",
+        "IoT",
+        "CloudFormation"
+      ]
+    },
+    {
+      "name": "CI/CD",
+      "level": "",
+      "keywords": [
+        "Jenkins",
+        "Travis CI",
+        "Circle CI",
+        "Buildbot",
+        "Teamcity"
+      ]
+    },
+    {
+      "name": "Virtualization",
+      "level": "",
+      "keywords": [
+        "OpenStack",
+        "VMWare vSphere",
+        "Eucalyptus",
+        "KVM"
+      ]
+    },
+    {
+      "name": "Infrastructure as Code",
+      "level": "",
+      "keywords": [
+        "Puppet",
+        "Ansible",
+        "Terraform"
+      ]
+    },
+    {
+      "name": "Analytics and Monitoring",
+      "level": "",
+      "keywords": [
+        "Kibana",
+        "Graylog",
+        "Superset",
+        "Icinga",
+        "Grafana"
+      ]
+    },
+    {
+      "name": "Programming languages",
+      "level": "",
+      "keywords": [
+        "Python",
+        "Javascript",
+        "Rust"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Polish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Intermediate"
+    }
+  ],
+  "interests": [],
+  "references": []
+}
