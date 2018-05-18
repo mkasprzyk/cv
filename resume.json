@@ -29,12 +29,23 @@
   },
   "work": [
     {
+      "company": "SoftServe",
+      "position": "DevOps Engineer",
+      "website": "https://www.softserveinc.com",
+      "startDate": "2018-01-02",
+      "endDate": "2018-05-18",
+      "summary": "DevOpsing for outsouring company",
+       "highlights": [
+        "Migrating obsolete build system to google GN"
+      ]
+    },    
+    {
       "company": "Stressless Solutions",
       "position": "Owner & DevOps",
       "website": "http://stressless.io",
       "startDate": "2016-05-01",
-      "endDate": "2017-12-31",
-      "summary": "Currently working for one of the top 10 worldwide banking companies",
+      "endDate": "2018-05-18",
+      "summary": "Working for one of the top 10 worldwide banking companies",
        "highlights": [
         "Delivering first-class solutions in DevOps & Software Development area",
         "Working on a few own open source projects"
