@@ -2,7 +2,7 @@ sudo: require
 language: node_js
 
 node_js:
-  - "4.2.6"
+  - "6.4.1"
 
 install: npm install -g resume-cli jsonresume-theme-stackoverflow
 script:  resume export --theme stackoverflow cv.html && pwd && ls -la
