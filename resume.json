@@ -3,13 +3,13 @@
     "name": "Maciej Kasprzyk",
     "label": "DevOps & Software Developer",
     "picture": "",
-    "email": "mkasprzyk@szy.fr",
+    "email": "mkasprzyk@tetramatic.com",
     "phone": "+48 535 585 642",
-    "website": "stressless.io",
-    "summary": "Experienced DevOps engineer focused on cloud computing, managing infrastructure as code, software development, deployment processes and configuration management",
+    "website": "tetramatic.com",
+    "summary": "Experienced DevOps & Software Developer focused on developing services, managing infrastructure as code, cloud computing and deployment processes",
     "location": {
-      "address": "Nyska 86/5",
-      "postalCode": "53-326",
+      "address": "Powstańców Śląskich 101",
+      "postalCode": "53-332",
       "city": "Wrocław",
       "countryCode": "",
       "region": ""
@@ -18,7 +18,7 @@
       {
         "network": "GitHub",
         "username": "mkasprzyk",
-        "url": "https://github.com/mkasprzyk"
+        "url": "https://github.com/mkasprzyk/"
       },
       {
         "network": "LinkedIn",
@@ -33,22 +33,36 @@
       "position": "DevOps Engineer",
       "website": "https://www.softserveinc.com",
       "startDate": "2018-01-02",
-      "endDate": "2018-05-18",
+      "endDate": "2018-06-30",
       "summary": "DevOpsing for outsouring company",
        "highlights": [
         "Migrating obsolete build system to google GN"
       ]
-    },    
+    },
     {
-      "company": "Stressless Solutions",
-      "position": "Owner & DevOps",
-      "website": "http://stressless.io",
+      "company": "Tetramatic",
+      "position": "DevOps & Software Developer",
+      "website": "http://tetramatic.com",
       "startDate": "2016-05-01",
-      "endDate": "2018-05-18",
-      "summary": "Working for one of the top 10 worldwide banking companies",
+      "summary": "Delivering first-class solutions in DevOps & Software Development area",
        "highlights": [
-        "Delivering first-class solutions in DevOps & Software Development area",
-        "Working on a few own open source projects"
+        "Developing IT services for industries",
+        "Building and managing infrastructures & platforms",
+        "Implementing best practices in IT world",
+        "Optimizing business processes"
+      ]
+    },
+    {
+      "company": "Credit Agricole (via Core Services)",
+      "position": "Software Integration Engineer (SCM)",
+      "website": "https://www.credit-agricole.pl",
+      "startDate": "2016-11-01",
+      "endDate": "2017-12-31",
+      "summary": "DevOpsing + R&D in project focused on private and corporate banking",
+      "highlights": [
+        "Building internal containerization platform based on OpenShift",
+        "Developing configuration management database",
+        "Automating business processes"
       ]
     },
     {
@@ -64,7 +78,7 @@
       ]
     },
     {
-      "company": "Credit Agricole (via outsourcing)",
+      "company": "Credit Agricole (via IT Kontrakt)",
       "position": "Software Integration Engineer (SCM)",
       "website": "https://www.credit-agricole.pl",
       "startDate": "2015-11-01",
@@ -73,7 +87,7 @@
       "highlights": [
         "Developing processes and tools for software deliveries from external software development companies",
         "Introducing cutting-edge technologies in infrastructure management area",
-        "Planning future of internal enterprise architecture based on cutting-edge technologies"
+        "Planning future of internal enterprise architecture"
       ]
     },
     {
@@ -130,6 +144,7 @@
       "keywords": [
         "Docker",
         "Kubernetes",
+        "OpenShift",
         "Rancher"
       ]
     },
@@ -193,7 +208,7 @@
       "level": "",
       "keywords": [
         "Python",
-        "Javascript",
+        "JavaScript",
         "Rust"
       ]
     }
