@@ -4,13 +4,13 @@
     "label": "DevOps & Software Developer",
     "picture": "",
     "email": "mkasprzyk@tetramatic.com",
-    "phone": "+48 730 065 168",
+    "phone": "+48 534 581 288",
     "website": "tetramatic.com",
     "summary": "Experienced DevOps & Software Developer focused on developing services, managing infrastructure as code, cloud computing and deployment processes",
     "location": {
-      "address": "Powstańców Śląskich 101",
-      "postalCode": "53-332",
-      "city": "Wrocław",
+      "address": "Legionów 102D",
+      "postalCode": "81-472",
+      "city": "Gdynia",
       "countryCode": "",
       "region": ""
     },
@@ -28,6 +28,22 @@
     ]
   },
   "work": [
+    {
+      "company": "Shareablee",
+      "position": "DevOps Engineer",
+      "website": "https://www.shareablee.com",
+      "startDate": "2019-01-03",
+      "summary": "Helping data freaks with things beyond DevOps horizon",
+       "highlights": [
+        "Building and maintaining Apache Druid cluster from scratch",
+        "Developing data pipelines with Apache Spark, Kafka, Airflow and many more",
+        "Managing multi-cloud infrastructure with AWS and Azure",
+        "Developing tools for various purposes like a migration of terabytes of data",
+        "Developing CI/CD pipelines",
+        "Taking care about code quality with SonarQube",
+        "Many, many more"
+      ]
+    },
     {
       "company": "SoftServe",
       "position": "DevOps Engineer",
@@ -152,14 +168,16 @@
       "name": "AWS",
       "level": "",
       "keywords": [
+        "EC2",
+        "MSK",
+        "EKS",
         "ECS",
         "RDS",
         "S3",
+        "Athena",
         "Beanstalk",
-        "EC2",
         "Lambda",
-        "IoT",
-        "CloudFormation"
+        "IoT"
       ]
     },
     {
@@ -189,18 +207,24 @@
       "keywords": [
         "Puppet",
         "Ansible",
-        "Terraform"
+        "Terraform",
+        "CloudFormation"
       ]
     },
     {
       "name": "Analytics and Monitoring",
       "level": "",
       "keywords": [
+        "Prometheus",
+        "Alertmanager",
+        "CloudWatch",
+        "Elastic APM",
         "Kibana",
         "Graylog",
         "Superset",
         "Icinga",
-        "Grafana"
+        "Grafana",
+        "SonarQube"
       ]
     },
     {
@@ -208,8 +232,28 @@
       "level": "",
       "keywords": [
         "Python",
+        "Java",
         "JavaScript",
         "Rust"
+      ]
+    },
+    {
+      "name": "Databases",
+      "level": "",
+      "keywords": [
+        "Apache Druid",
+        "Apache Cassandra",
+        "Elasticsearch",
+        "PostgreSQL"
+      ]
+    },
+    {
+      "name": "Big Data",
+      "level": "",
+      "keywords": [
+        "Apache Spark",
+        "Apache Airflow",
+        "Apache Kafka"
       ]
     }
   ],
