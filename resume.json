@@ -3,9 +3,9 @@
     "name": "Maciej Kasprzyk",
     "label": "DevOps & Software Developer",
     "picture": "",
-    "email": "mkasprzyk@tetramatic.com",
+    "email": "mkasprzyk@szy.fr",
     "phone": "+48 534 581 288",
-    "website": "tetramatic.com",
+    "website": "integrate.pl",
     "summary": "Experienced DevOps & Software Developer focused on developing services, managing infrastructure as code, cloud computing and deployment processes",
     "location": {
       "address": "Legionów 102D",
@@ -254,6 +254,15 @@
         "Apache Spark",
         "Apache Airflow",
         "Apache Kafka"
+      ]
+    },
+    {
+      "name": "Operating Systems",
+      "level": "",
+      "keywords": [
+        "Linux",
+        "macOS",
+        "Windows"
       ]
     }
   ],
